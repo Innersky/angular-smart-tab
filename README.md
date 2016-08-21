@@ -1,0 +1,1 @@
+Angular tab component with advanced features!
